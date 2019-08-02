@@ -80,4 +80,10 @@ price = 49.95
 myorder = "I want {} pieces of item {} for {} dollars."
 print(myorder.format(quantity, itemno, price))
 
+#Returns True if a sequence with the specified value is present in the object
+
+x = ["apple", "banana"]
+print("banana" in x)
+
+print( not(((3>2) and (1 is 1)) or True) )
 
