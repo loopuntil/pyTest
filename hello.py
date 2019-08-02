@@ -87,3 +87,93 @@ print("banana" in x)
 
 print( not(((3>2) and (1 is 1)) or True) )
 
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+  print(x)
+
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")
+
+thislist.append("orange")
+print(thislist)
+
+thislist.insert(1, "orange")
+print(thislist)
+
+c =thislist.pop()
+print(thislist)
+print(c)
+
+del thislist[0]
+print(thislist)
+
+thislist.clear()
+print(thislist)
+
+thislist = ["apple", "banana", "cherry"]
+mylist = thislist.copy()
+print(mylist)
+
+thislist = list(("a", "b", "c")) # note the double round-brackets
+print(thislist)
+
+thisset = {"apple", "banana", "cherry"}
+
+thisset.add("orange")
+
+print(thisset)
+
+thisset = {"apple", "banana", "cherry"}
+
+thisset.update(["orange", "mango", "grapes"])
+
+print(thisset)
+
+thisdict =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+for x, y in thisdict.items():
+    print(x, y)
+
+
+a = 200
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+
+print("A") if a > b else print("=") if a == b else print("B")
+
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+
+print('--------------')
+
+i = 0
+while i < 6:
+  i += 1 
+  if i == 3:
+    continue
+  print(i)  
+
+print('*******')
+
+for x in range(6):
+  print(x)
+
+
+
+
+
+
