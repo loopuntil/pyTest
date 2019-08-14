@@ -172,8 +172,87 @@ print('*******')
 for x in range(6):
   print(x)
 
+print('********')
+
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+  
+for x in adj:
+  for y in fruits:
+    print(x, y)
+
+def my_function(country = "Norway"):
+  print("I am from " + country)
+
+my_function()
+my_function('Taiwan')
 
 
+def my_function(food):
+      for x in food:
+        print(x)
+
+fruits = ["apple", "banana", "cherry"]
+my_function(fruits)
+
+def fbi(n):
+  if(n < 2):
+    return n
+  return fbi(n-1) + fbi(n-2)
+
+for x in range(5):
+  print(fbi(x))
+
+x = lambda a, b : a * b
+print(x(5, 6))
+
+def myfunc(n):
+      return lambda a : a * n
+
+mydoubler = myfunc(2)
+mytripler = myfunc(3)
+
+print(mydoubler(11)) 
+print(mytripler(11))
 
 
+class Person:
+    def __init__(self, name, age):
+      self.name = name
+      self.age = age
 
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
+
+
+class Person:
+  def __init__(self, fname, lname):
+    self.firstname = fname
+    self.lastname = lname
+
+  def printname(self):
+    print(self.firstname, self.lastname)
+
+
+x = Person("John", "Doe")
+x.printname()
+
+class Student(Person):
+  pass
+
+x = Student("Mike", "Olsen")
+x.printname()
+
+
+class Student(Person):
+    def __init__(self, fname, lname, year):
+      super().__init__(fname, lname)
+      self.graduationyear = year
+
+    def welcome(self):
+      print("Welcome", self.firstname, self.lastname, "to the class of", self.graduationyear)  
+
+x = Student("Mike", "Olsen", 2019)
+x.welcome()
