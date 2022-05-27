@@ -1,0 +1,483 @@
+2020-05-20 11:51:58.191 | INFO     | __main__:getProxies:78 - getProxies: proxies-2020052011.csv does not exist.
+2020-05-20 11:51:58.194 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-tw/
+2020-05-20 11:51:58.195 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:51:59.138 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:51:59.147 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:01.822 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:01.826 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 9 proxies is found.
+2020-05-20 11:52:02.828 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-jp/
+2020-05-20 11:52:02.833 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:03.919 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:03.940 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:04.440 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:04.441 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 33 proxies is found.
+2020-05-20 11:52:05.444 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-kr/
+2020-05-20 11:52:05.446 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:06.619 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:06.649 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:07.063 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:07.065 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 56 proxies is found.
+2020-05-20 11:52:08.068 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-id/
+2020-05-20 11:52:08.079 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:09.563 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:09.591 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:10.215 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:10.217 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 91 proxies is found.
+2020-05-20 11:52:11.220 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-my/
+2020-05-20 11:52:11.238 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:12.101 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:12.121 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:12.176 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:12.178 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 93 proxies is found.
+2020-05-20 11:52:13.181 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-th/
+2020-05-20 11:52:13.197 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:14.468 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:14.510 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:15.199 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:15.202 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 128 proxies is found.
+2020-05-20 11:52:16.203 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-vn/
+2020-05-20 11:52:16.213 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:17.287 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:17.304 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:17.748 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:17.750 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 151 proxies is found.
+2020-05-20 11:52:18.752 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-ph/
+2020-05-20 11:52:18.758 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:19.752 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:19.774 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:19.973 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:19.975 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 160 proxies is found.
+2020-05-20 11:52:20.977 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-hk/
+2020-05-20 11:52:20.987 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:22.353 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:22.383 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:23.060 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:23.063 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 195 proxies is found.
+2020-05-20 11:52:24.065 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-uk/
+2020-05-20 11:52:24.068 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:24.892 | DEBUG    | __main__:getProxiesFromProxyNova:113 - getProxiesFromProxyNova: status code is not 200
+2020-05-20 11:52:24.900 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-us/
+2020-05-20 11:52:24.912 | WARNING  | __main__:getProxiesFromProxyNova:110 - getProxiesFromProxyNova: downloading...
+2020-05-20 11:52:26.151 | SUCCESS  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: downloaded.
+2020-05-20 11:52:26.186 | WARNING  | __main__:getProxiesFromProxyNova:119 - getProxiesFromProxyNova: scanning...
+2020-05-20 11:52:26.806 | SUCCESS  | __main__:getProxiesFromProxyNova:130 - getProxiesFromProxyNova: scanned.
+2020-05-20 11:52:26.808 | DEBUG    | __main__:getProxiesFromProxyNova:131 - getProxiesFromProxyNova: 230 proxies is found.
+2020-05-20 11:52:27.815 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Taiwan
+2020-05-20 11:52:27.825 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:28.219 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:28.230 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Japan
+2020-05-20 11:52:28.246 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:29.024 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:29.035 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=United%20States
+2020-05-20 11:52:29.045 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:29.403 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:29.414 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Thailand
+2020-05-20 11:52:29.430 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:29.768 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:29.778 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Vietnam
+2020-05-20 11:52:29.786 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:30.121 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:30.131 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Indonesia
+2020-05-20 11:52:30.140 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:30.498 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:30.509 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Singapore
+2020-05-20 11:52:30.527 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:30.884 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:30.895 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Philippines
+2020-05-20 11:52:30.913 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:31.259 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:31.269 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Malaysia
+2020-05-20 11:52:31.287 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:31.641 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:31.654 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Hong%20Kong
+2020-05-20 11:52:31.666 | WARNING  | __main__:getProxiesFromGatherProxy:152 - getProxiesFromGatherProxy: downloading...
+2020-05-20 11:52:32.009 | DEBUG    | __main__:getProxiesFromGatherProxy:155 - getProxiesFromGatherProxy: status code is not 200
+2020-05-20 11:52:32.019 | DEBUG    | __main__:getProxiesFromFreeProxyList:178 - getProxiesFromFreeProxyList: https://free-proxy-list.net/
+2020-05-20 11:52:32.029 | WARNING  | __main__:getProxiesFromFreeProxyList:179 - getProxiesFromFreeProxyList: downloading...
+2020-05-20 11:52:32.672 | SUCCESS  | __main__:getProxiesFromFreeProxyList:184 - getProxiesFromFreeProxyList: downloaded.
+2020-05-20 11:52:32.697 | WARNING  | __main__:getProxiesFromFreeProxyList:187 - getProxiesFromFreeProxyList: scanning...
+2020-05-20 11:52:32.785 | SUCCESS  | __main__:getProxiesFromFreeProxyList:194 - getProxiesFromFreeProxyList: scanned.
+2020-05-20 11:52:32.787 | DEBUG    | __main__:getProxiesFromFreeProxyList:195 - getProxiesFromFreeProxyList: 300 proxies is found.
+2020-05-20 11:52:32.790 | DEBUG    | __main__:reqProxies:61 - reqProxies: 509 proxies is found.
+2020-05-20 11:52:32.792 | WARNING  | __main__:getProxies:80 - getProxies: proxies-2020052011.csv is saving...
+2020-05-20 11:52:32.799 | SUCCESS  | __main__:getProxies:90 - getProxies: proxies-2020052011.csv is saved.
+2020-05-20 11:52:32.801 | DEBUG    | __main__:getProxy:50 - getProxy: 167.86.66.178:3128
+2020-05-20 11:52:32.803 | DEBUG    | __main__:getProxy:52 - getProxy: 508 proxies is unused.
+2020-05-20 11:52:32.805 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:32.807 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:35.816 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(167.86.66.178:3128) is not working (connection error).
+2020-05-20 11:52:35.826 | DEBUG    | __main__:getProxy:50 - getProxy: 103.251.225.16:6666
+2020-05-20 11:52:35.836 | DEBUG    | __main__:getProxy:52 - getProxy: 507 proxies is unused.
+2020-05-20 11:52:35.853 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:35.865 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:38.897 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(103.251.225.16:6666) is not working (connection error).
+2020-05-20 11:52:38.914 | DEBUG    | __main__:getProxy:50 - getProxy: 36.91.186.3:8080
+2020-05-20 11:52:38.926 | DEBUG    | __main__:getProxy:52 - getProxy: 506 proxies is unused.
+2020-05-20 11:52:38.937 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:38.951 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:41.982 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(36.91.186.3:8080) is not working (connection error).
+2020-05-20 11:52:41.989 | DEBUG    | __main__:getProxy:50 - getProxy: 200.73.129.173:8080
+2020-05-20 11:52:41.996 | DEBUG    | __main__:getProxy:52 - getProxy: 505 proxies is unused.
+2020-05-20 11:52:42.001 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:42.009 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:45.628 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(200.73.129.173:8080) is not working (connection error).
+2020-05-20 11:52:45.640 | DEBUG    | __main__:getProxy:50 - getProxy: 159.138.1.185:80
+2020-05-20 11:52:45.651 | DEBUG    | __main__:getProxy:52 - getProxy: 504 proxies is unused.
+2020-05-20 11:52:45.665 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:45.670 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:48.735 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.138.1.185:80) is not working (connection error).
+2020-05-20 11:52:48.746 | DEBUG    | __main__:getProxy:50 - getProxy: 183.81.157.226:8080
+2020-05-20 11:52:48.763 | DEBUG    | __main__:getProxy:52 - getProxy: 503 proxies is unused.
+2020-05-20 11:52:48.775 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:48.785 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:51.806 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(183.81.157.226:8080) is not working (connection error).
+2020-05-20 11:52:51.812 | DEBUG    | __main__:getProxy:50 - getProxy: 190.103.178.15:8080
+2020-05-20 11:52:51.821 | DEBUG    | __main__:getProxy:52 - getProxy: 502 proxies is unused.
+2020-05-20 11:52:51.826 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:51.832 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:53.943 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(190.103.178.15:8080) is not working (connection error).
+2020-05-20 11:52:53.954 | DEBUG    | __main__:getProxy:50 - getProxy: 103.132.187.30:53281
+2020-05-20 11:52:53.963 | DEBUG    | __main__:getProxy:52 - getProxy: 501 proxies is unused.
+2020-05-20 11:52:53.973 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:53.980 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:52:57.002 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(103.132.187.30:53281) is not working (connection error).
+2020-05-20 11:52:57.034 | DEBUG    | __main__:getProxy:50 - getProxy: 1.234.44.24:9999
+2020-05-20 11:52:57.040 | DEBUG    | __main__:getProxy:52 - getProxy: 500 proxies is unused.
+2020-05-20 11:52:57.047 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:52:57.051 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:00.080 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(1.234.44.24:9999) is not working (connection error).
+2020-05-20 11:53:00.083 | DEBUG    | __main__:getProxy:50 - getProxy: 72.252.4.149:8080
+2020-05-20 11:53:00.084 | DEBUG    | __main__:getProxy:52 - getProxy: 499 proxies is unused.
+2020-05-20 11:53:00.086 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:00.088 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:03.096 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(72.252.4.149:8080) is not working (connection error).
+2020-05-20 11:53:03.107 | DEBUG    | __main__:getProxy:50 - getProxy: 140.238.16.90:3128
+2020-05-20 11:53:03.127 | DEBUG    | __main__:getProxy:52 - getProxy: 498 proxies is unused.
+2020-05-20 11:53:03.138 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:03.153 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:04.678 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(140.238.16.90:3128) is not working (connection error).
+2020-05-20 11:53:04.686 | DEBUG    | __main__:getProxy:50 - getProxy: 167.71.53.213:80
+2020-05-20 11:53:04.694 | DEBUG    | __main__:getProxy:52 - getProxy: 497 proxies is unused.
+2020-05-20 11:53:04.701 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:04.708 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:07.730 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(167.71.53.213:80) is not working (connection error).
+2020-05-20 11:53:07.749 | DEBUG    | __main__:getProxy:50 - getProxy: 132.145.82.248:3128
+2020-05-20 11:53:07.760 | DEBUG    | __main__:getProxy:52 - getProxy: 496 proxies is unused.
+2020-05-20 11:53:07.779 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:07.793 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:11.638 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(132.145.82.248:3128) is not working.
+2020-05-20 11:53:11.650 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:53:11.662 | DEBUG    | __main__:getProxy:50 - getProxy: 190.85.115.78:3128
+2020-05-20 11:53:11.672 | DEBUG    | __main__:getProxy:52 - getProxy: 495 proxies is unused.
+2020-05-20 11:53:11.677 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:11.681 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:14.702 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(190.85.115.78:3128) is not working (connection error).
+2020-05-20 11:53:14.708 | DEBUG    | __main__:getProxy:50 - getProxy: 1.10.188.203:45476
+2020-05-20 11:53:14.712 | DEBUG    | __main__:getProxy:52 - getProxy: 494 proxies is unused.
+2020-05-20 11:53:14.716 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:14.719 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:17.732 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(1.10.188.203:45476) is not working (connection error).
+2020-05-20 11:53:17.737 | DEBUG    | __main__:getProxy:50 - getProxy: 185.34.17.248:58137
+2020-05-20 11:53:17.741 | DEBUG    | __main__:getProxy:52 - getProxy: 493 proxies is unused.
+2020-05-20 11:53:17.746 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:17.749 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:20.765 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(185.34.17.248:58137) is not working (connection error).
+2020-05-20 11:53:20.777 | DEBUG    | __main__:getProxy:50 - getProxy: 179.27.83.222:57096
+2020-05-20 11:53:20.788 | DEBUG    | __main__:getProxy:52 - getProxy: 492 proxies is unused.
+2020-05-20 11:53:20.808 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:20.821 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:23.840 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(179.27.83.222:57096) is not working (connection error).
+2020-05-20 11:53:23.845 | DEBUG    | __main__:getProxy:50 - getProxy: 190.221.152.130:52116
+2020-05-20 11:53:23.848 | DEBUG    | __main__:getProxy:52 - getProxy: 491 proxies is unused.
+2020-05-20 11:53:23.851 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:23.854 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:26.865 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(190.221.152.130:52116) is not working (connection error).
+2020-05-20 11:53:26.869 | DEBUG    | __main__:getProxy:50 - getProxy: 47.88.16.118:3128
+2020-05-20 11:53:26.872 | DEBUG    | __main__:getProxy:52 - getProxy: 490 proxies is unused.
+2020-05-20 11:53:26.874 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:26.877 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:32.660 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(47.88.16.118:3128) is not working (connection error).
+2020-05-20 11:53:32.675 | DEBUG    | __main__:getProxy:50 - getProxy: 167.172.191.249:39193
+2020-05-20 11:53:32.679 | DEBUG    | __main__:getProxy:52 - getProxy: 489 proxies is unused.
+2020-05-20 11:53:32.683 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:32.687 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:35.699 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(167.172.191.249:39193) is not working (connection error).
+2020-05-20 11:53:35.704 | DEBUG    | __main__:getProxy:50 - getProxy: 202.29.237.211:3128
+2020-05-20 11:53:35.708 | DEBUG    | __main__:getProxy:52 - getProxy: 488 proxies is unused.
+2020-05-20 11:53:35.712 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:35.716 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:42.112 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(202.29.237.211:3128) is not working.
+2020-05-20 11:53:42.123 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:53:42.134 | DEBUG    | __main__:getProxy:50 - getProxy: 118.99.104.5:8080
+2020-05-20 11:53:42.151 | DEBUG    | __main__:getProxy:52 - getProxy: 487 proxies is unused.
+2020-05-20 11:53:42.162 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:42.177 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:45.199 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(118.99.104.5:8080) is not working (connection error).
+2020-05-20 11:53:45.216 | DEBUG    | __main__:getProxy:50 - getProxy: 190.103.178.14:8080
+2020-05-20 11:53:45.228 | DEBUG    | __main__:getProxy:52 - getProxy: 486 proxies is unused.
+2020-05-20 11:53:45.243 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:45.255 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:48.286 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(190.103.178.14:8080) is not working (connection error).
+2020-05-20 11:53:48.292 | DEBUG    | __main__:getProxy:50 - getProxy: 119.11.240.78:34997
+2020-05-20 11:53:48.299 | DEBUG    | __main__:getProxy:52 - getProxy: 485 proxies is unused.
+2020-05-20 11:53:48.304 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:48.309 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:51.326 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(119.11.240.78:34997) is not working (connection error).
+2020-05-20 11:53:51.336 | DEBUG    | __main__:getProxy:50 - getProxy: 67.207.94.118:80
+2020-05-20 11:53:51.344 | DEBUG    | __main__:getProxy:52 - getProxy: 484 proxies is unused.
+2020-05-20 11:53:51.349 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:51.354 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:54.370 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(67.207.94.118:80) is not working (connection error).
+2020-05-20 11:53:54.373 | DEBUG    | __main__:getProxy:50 - getProxy: 45.77.169.72:8080
+2020-05-20 11:53:54.375 | DEBUG    | __main__:getProxy:52 - getProxy: 483 proxies is unused.
+2020-05-20 11:53:54.377 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:54.378 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:53:58.998 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(45.77.169.72:8080) is not working.
+2020-05-20 11:53:59.003 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:53:59.010 | DEBUG    | __main__:getProxy:50 - getProxy: 139.180.147.149:8080
+2020-05-20 11:53:59.017 | DEBUG    | __main__:getProxy:52 - getProxy: 482 proxies is unused.
+2020-05-20 11:53:59.024 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:53:59.029 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:02.891 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(139.180.147.149:8080) is not working.
+2020-05-20 11:54:02.901 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:54:02.911 | DEBUG    | __main__:getProxy:50 - getProxy: 178.128.85.227:3128
+2020-05-20 11:54:02.918 | DEBUG    | __main__:getProxy:52 - getProxy: 481 proxies is unused.
+2020-05-20 11:54:02.925 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:02.931 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:07.140 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(178.128.85.227:3128) is not working.
+2020-05-20 11:54:07.151 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:54:07.162 | DEBUG    | __main__:getProxy:50 - getProxy: 144.76.214.158:1080
+2020-05-20 11:54:07.182 | DEBUG    | __main__:getProxy:52 - getProxy: 480 proxies is unused.
+2020-05-20 11:54:07.196 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:07.203 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:10.286 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(144.76.214.158:1080) is not working (connection error).
+2020-05-20 11:54:10.300 | DEBUG    | __main__:getProxy:50 - getProxy: 212.83.182.114:5836
+2020-05-20 11:54:10.310 | DEBUG    | __main__:getProxy:52 - getProxy: 479 proxies is unused.
+2020-05-20 11:54:10.319 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:10.329 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:13.659 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(212.83.182.114:5836) is not working (connection error).
+2020-05-20 11:54:13.671 | DEBUG    | __main__:getProxy:50 - getProxy: 159.138.3.119:443
+2020-05-20 11:54:13.680 | DEBUG    | __main__:getProxy:52 - getProxy: 478 proxies is unused.
+2020-05-20 11:54:13.686 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:13.691 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:16.709 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.138.3.119:443) is not working (connection error).
+2020-05-20 11:54:16.727 | DEBUG    | __main__:getProxy:50 - getProxy: 124.107.185.3:8080
+2020-05-20 11:54:16.739 | DEBUG    | __main__:getProxy:52 - getProxy: 477 proxies is unused.
+2020-05-20 11:54:16.758 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:16.769 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:19.806 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(124.107.185.3:8080) is not working (connection error).
+2020-05-20 11:54:19.825 | DEBUG    | __main__:getProxy:50 - getProxy: 88.99.10.249:1080
+2020-05-20 11:54:19.837 | DEBUG    | __main__:getProxy:52 - getProxy: 476 proxies is unused.
+2020-05-20 11:54:19.857 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:19.880 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:21.460 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(88.99.10.249:1080) is not working (connection error).
+2020-05-20 11:54:21.476 | DEBUG    | __main__:getProxy:50 - getProxy: 193.59.27.71:36748
+2020-05-20 11:54:21.491 | DEBUG    | __main__:getProxy:52 - getProxy: 475 proxies is unused.
+2020-05-20 11:54:21.502 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:21.513 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:24.545 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(193.59.27.71:36748) is not working (connection error).
+2020-05-20 11:54:24.556 | DEBUG    | __main__:getProxy:50 - getProxy: 109.74.132.190:40923
+2020-05-20 11:54:24.568 | DEBUG    | __main__:getProxy:52 - getProxy: 474 proxies is unused.
+2020-05-20 11:54:24.583 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:24.596 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:27.628 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(109.74.132.190:40923) is not working (connection error).
+2020-05-20 11:54:27.630 | DEBUG    | __main__:getProxy:50 - getProxy: 160.238.251.134:3128
+2020-05-20 11:54:27.632 | DEBUG    | __main__:getProxy:52 - getProxy: 473 proxies is unused.
+2020-05-20 11:54:27.634 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:27.635 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:30.645 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(160.238.251.134:3128) is not working (connection error).
+2020-05-20 11:54:30.658 | DEBUG    | __main__:getProxy:50 - getProxy: 159.138.20.247:443
+2020-05-20 11:54:30.681 | DEBUG    | __main__:getProxy:52 - getProxy: 472 proxies is unused.
+2020-05-20 11:54:30.692 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:30.697 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:30.804 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.138.20.247:443) is not working (connection error).
+2020-05-20 11:54:30.811 | DEBUG    | __main__:getProxy:50 - getProxy: 91.205.131.150:40694
+2020-05-20 11:54:30.816 | DEBUG    | __main__:getProxy:52 - getProxy: 471 proxies is unused.
+2020-05-20 11:54:30.821 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:30.825 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:33.846 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(91.205.131.150:40694) is not working (connection error).
+2020-05-20 11:54:33.857 | DEBUG    | __main__:getProxy:50 - getProxy: 45.119.81.242:8128
+2020-05-20 11:54:33.867 | DEBUG    | __main__:getProxy:52 - getProxy: 470 proxies is unused.
+2020-05-20 11:54:33.876 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:33.894 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:36.932 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(45.119.81.242:8128) is not working (connection error).
+2020-05-20 11:54:36.951 | DEBUG    | __main__:getProxy:50 - getProxy: 103.76.20.155:54845
+2020-05-20 11:54:36.962 | DEBUG    | __main__:getProxy:52 - getProxy: 469 proxies is unused.
+2020-05-20 11:54:36.982 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:36.991 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:40.102 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(103.76.20.155:54845) is not working (connection error).
+2020-05-20 11:54:40.113 | DEBUG    | __main__:getProxy:50 - getProxy: 197.248.184.158:53281
+2020-05-20 11:54:40.124 | DEBUG    | __main__:getProxy:52 - getProxy: 468 proxies is unused.
+2020-05-20 11:54:40.142 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:40.150 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:43.171 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(197.248.184.158:53281) is not working (connection error).
+2020-05-20 11:54:43.182 | DEBUG    | __main__:getProxy:50 - getProxy: 199.247.22.183:8080
+2020-05-20 11:54:43.193 | DEBUG    | __main__:getProxy:52 - getProxy: 467 proxies is unused.
+2020-05-20 11:54:43.202 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:43.224 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:48.847 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(199.247.22.183:8080) is not working.
+2020-05-20 11:54:48.850 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:54:48.853 | DEBUG    | __main__:getProxy:50 - getProxy: 1.234.44.23:9999
+2020-05-20 11:54:48.855 | DEBUG    | __main__:getProxy:52 - getProxy: 466 proxies is unused.
+2020-05-20 11:54:48.857 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:48.859 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:51.869 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(1.234.44.23:9999) is not working (connection error).
+2020-05-20 11:54:51.880 | DEBUG    | __main__:getProxy:50 - getProxy: 114.110.21.121:50464
+2020-05-20 11:54:51.892 | DEBUG    | __main__:getProxy:52 - getProxy: 465 proxies is unused.
+2020-05-20 11:54:51.904 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:51.912 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:54.932 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(114.110.21.121:50464) is not working (connection error).
+2020-05-20 11:54:54.938 | DEBUG    | __main__:getProxy:50 - getProxy: 119.82.253.123:55281
+2020-05-20 11:54:54.944 | DEBUG    | __main__:getProxy:52 - getProxy: 464 proxies is unused.
+2020-05-20 11:54:54.949 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:54.954 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:54:57.975 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(119.82.253.123:55281) is not working (connection error).
+2020-05-20 11:54:57.984 | DEBUG    | __main__:getProxy:50 - getProxy: 85.237.46.168:30412
+2020-05-20 11:54:57.992 | DEBUG    | __main__:getProxy:52 - getProxy: 463 proxies is unused.
+2020-05-20 11:54:57.998 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:54:58.003 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:01.023 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(85.237.46.168:30412) is not working (connection error).
+2020-05-20 11:55:01.034 | DEBUG    | __main__:getProxy:50 - getProxy: 116.197.131.46:8080
+2020-05-20 11:55:01.044 | DEBUG    | __main__:getProxy:52 - getProxy: 462 proxies is unused.
+2020-05-20 11:55:01.063 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:01.075 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:04.098 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(116.197.131.46:8080) is not working (connection error).
+2020-05-20 11:55:04.118 | DEBUG    | __main__:getProxy:50 - getProxy: 124.156.98.172:443
+2020-05-20 11:55:04.129 | DEBUG    | __main__:getProxy:52 - getProxy: 461 proxies is unused.
+2020-05-20 11:55:04.144 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:04.149 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:07.223 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(124.156.98.172:443) is not working (connection error).
+2020-05-20 11:55:07.246 | DEBUG    | __main__:getProxy:50 - getProxy: 103.216.82.44:8080
+2020-05-20 11:55:07.261 | DEBUG    | __main__:getProxy:52 - getProxy: 460 proxies is unused.
+2020-05-20 11:55:07.271 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:07.279 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:10.303 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(103.216.82.44:8080) is not working (connection error).
+2020-05-20 11:55:10.314 | DEBUG    | __main__:getProxy:50 - getProxy: 119.82.252.1:41714
+2020-05-20 11:55:10.324 | DEBUG    | __main__:getProxy:52 - getProxy: 459 proxies is unused.
+2020-05-20 11:55:10.334 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:10.359 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:13.388 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(119.82.252.1:41714) is not working (connection error).
+2020-05-20 11:55:13.398 | DEBUG    | __main__:getProxy:50 - getProxy: 165.255.202.58:8080
+2020-05-20 11:55:13.407 | DEBUG    | __main__:getProxy:52 - getProxy: 458 proxies is unused.
+2020-05-20 11:55:13.416 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:13.424 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:20.439 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(165.255.202.58:8080) is not working.
+2020-05-20 11:55:20.450 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:55:20.468 | DEBUG    | __main__:getProxy:50 - getProxy: 112.218.125.140:8080
+2020-05-20 11:55:20.480 | DEBUG    | __main__:getProxy:52 - getProxy: 457 proxies is unused.
+2020-05-20 11:55:20.501 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:20.514 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:23.539 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(112.218.125.140:8080) is not working (connection error).
+2020-05-20 11:55:23.559 | DEBUG    | __main__:getProxy:50 - getProxy: 180.180.123.40:8080
+2020-05-20 11:55:23.570 | DEBUG    | __main__:getProxy:52 - getProxy: 456 proxies is unused.
+2020-05-20 11:55:23.590 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:23.600 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:26.631 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(180.180.123.40:8080) is not working (connection error).
+2020-05-20 11:55:26.643 | DEBUG    | __main__:getProxy:50 - getProxy: 107.150.42.69:3838
+2020-05-20 11:55:26.666 | DEBUG    | __main__:getProxy:52 - getProxy: 455 proxies is unused.
+2020-05-20 11:55:26.672 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:26.677 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:31.998 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(107.150.42.69:3838) is not working.
+2020-05-20 11:55:32.006 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:55:32.015 | DEBUG    | __main__:getProxy:50 - getProxy: 82.200.233.4:3128
+2020-05-20 11:55:32.023 | DEBUG    | __main__:getProxy:52 - getProxy: 454 proxies is unused.
+2020-05-20 11:55:32.031 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:32.044 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:35.060 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(82.200.233.4:3128) is not working (connection error).
+2020-05-20 11:55:35.071 | DEBUG    | __main__:getProxy:50 - getProxy: 113.254.182.241:8380
+2020-05-20 11:55:35.080 | DEBUG    | __main__:getProxy:52 - getProxy: 453 proxies is unused.
+2020-05-20 11:55:35.089 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:35.098 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:38.324 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(113.254.182.241:8380) is not working (connection error).
+2020-05-20 11:55:38.345 | DEBUG    | __main__:getProxy:50 - getProxy: 128.199.198.78:3128
+2020-05-20 11:55:38.357 | DEBUG    | __main__:getProxy:52 - getProxy: 452 proxies is unused.
+2020-05-20 11:55:38.373 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:38.376 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:42.166 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(128.199.198.78:3128) is not working.
+2020-05-20 11:55:42.186 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:55:42.198 | DEBUG    | __main__:getProxy:50 - getProxy: 159.138.3.119:80
+2020-05-20 11:55:42.227 | DEBUG    | __main__:getProxy:52 - getProxy: 451 proxies is unused.
+2020-05-20 11:55:42.254 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:42.268 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:45.285 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.138.3.119:80) is not working (connection error).
+2020-05-20 11:55:45.296 | DEBUG    | __main__:getProxy:50 - getProxy: 61.29.96.146:80
+2020-05-20 11:55:45.305 | DEBUG    | __main__:getProxy:52 - getProxy: 450 proxies is unused.
+2020-05-20 11:55:45.329 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:45.343 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:52.959 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(61.29.96.146:80) is not working.
+2020-05-20 11:55:52.970 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:55:52.981 | DEBUG    | __main__:getProxy:50 - getProxy: 159.138.1.185:443
+2020-05-20 11:55:52.992 | DEBUG    | __main__:getProxy:52 - getProxy: 449 proxies is unused.
+2020-05-20 11:55:53.003 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:53.013 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:55:54.436 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.138.1.185:443) is not working (connection error).
+2020-05-20 11:55:54.442 | DEBUG    | __main__:getProxy:50 - getProxy: 81.144.138.35:3128
+2020-05-20 11:55:54.446 | DEBUG    | __main__:getProxy:52 - getProxy: 448 proxies is unused.
+2020-05-20 11:55:54.452 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:55:54.479 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:01.446 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(81.144.138.35:3128) is not working.
+2020-05-20 11:56:01.457 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:01.470 | DEBUG    | __main__:getProxy:50 - getProxy: 45.32.1.168:8080
+2020-05-20 11:56:01.478 | DEBUG    | __main__:getProxy:52 - getProxy: 447 proxies is unused.
+2020-05-20 11:56:01.484 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:01.491 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:06.689 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(45.32.1.168:8080) is not working.
+2020-05-20 11:56:06.694 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:06.700 | DEBUG    | __main__:getProxy:50 - getProxy: 103.241.227.105:50313
+2020-05-20 11:56:06.704 | DEBUG    | __main__:getProxy:52 - getProxy: 446 proxies is unused.
+2020-05-20 11:56:06.709 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:06.714 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:09.731 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(103.241.227.105:50313) is not working (connection error).
+2020-05-20 11:56:09.742 | DEBUG    | __main__:getProxy:50 - getProxy: 153.127.40.61:3128
+2020-05-20 11:56:09.753 | DEBUG    | __main__:getProxy:52 - getProxy: 445 proxies is unused.
+2020-05-20 11:56:09.763 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:09.780 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:13.455 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(153.127.40.61:3128) is not working.
+2020-05-20 11:56:13.461 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:13.467 | DEBUG    | __main__:getProxy:50 - getProxy: 180.183.102.220:8080
+2020-05-20 11:56:13.472 | DEBUG    | __main__:getProxy:52 - getProxy: 444 proxies is unused.
+2020-05-20 11:56:13.477 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:13.486 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:16.502 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(180.183.102.220:8080) is not working (connection error).
+2020-05-20 11:56:16.527 | DEBUG    | __main__:getProxy:50 - getProxy: 211.21.120.163:8080
+2020-05-20 11:56:16.542 | DEBUG    | __main__:getProxy:52 - getProxy: 443 proxies is unused.
+2020-05-20 11:56:16.552 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:16.562 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:19.609 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(211.21.120.163:8080) is not working (connection error).
+2020-05-20 11:56:19.619 | DEBUG    | __main__:getProxy:50 - getProxy: 198.98.56.71:8080
+2020-05-20 11:56:19.625 | DEBUG    | __main__:getProxy:52 - getProxy: 442 proxies is unused.
+2020-05-20 11:56:19.629 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:19.633 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:25.626 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(198.98.56.71:8080) is not working.
+2020-05-20 11:56:25.633 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:25.645 | DEBUG    | __main__:getProxy:50 - getProxy: 159.203.61.169:3128
+2020-05-20 11:56:25.653 | DEBUG    | __main__:getProxy:52 - getProxy: 441 proxies is unused.
+2020-05-20 11:56:25.661 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:25.668 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:26.322 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(159.203.61.169:3128) is not working (connection error).
+2020-05-20 11:56:26.324 | DEBUG    | __main__:getProxy:50 - getProxy: 39.109.123.188:3128
+2020-05-20 11:56:26.326 | DEBUG    | __main__:getProxy:52 - getProxy: 440 proxies is unused.
+2020-05-20 11:56:26.328 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:26.329 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:29.391 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(39.109.123.188:3128) is not working (connection error).
+2020-05-20 11:56:29.402 | DEBUG    | __main__:getProxy:50 - getProxy: 110.44.128.200:3128
+2020-05-20 11:56:29.412 | DEBUG    | __main__:getProxy:52 - getProxy: 439 proxies is unused.
+2020-05-20 11:56:29.436 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:29.450 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:32.474 | ERROR    | __main__:getTaiexs:250 - getTaiexs: proxy(110.44.128.200:3128) is not working (connection error).
+2020-05-20 11:56:32.480 | DEBUG    | __main__:getProxy:50 - getProxy: 122.3.252.187:3128
+2020-05-20 11:56:32.485 | DEBUG    | __main__:getProxy:52 - getProxy: 438 proxies is unused.
+2020-05-20 11:56:32.489 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:32.491 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:37.760 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(122.3.252.187:3128) is not working.
+2020-05-20 11:56:37.770 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:37.794 | DEBUG    | __main__:getProxy:50 - getProxy: 51.158.78.179:8811
+2020-05-20 11:56:37.809 | DEBUG    | __main__:getProxy:52 - getProxy: 437 proxies is unused.
+2020-05-20 11:56:37.819 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:37.828 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...
+2020-05-20 11:56:44.044 | ERROR    | __main__:getTaiexs:268 - getTaiexs: proxy(51.158.78.179:8811) is not working.
+2020-05-20 11:56:44.065 | ERROR    | __main__:getTaiexs:269 - HTTPSConnectionPool(host='www.twse.com.tw', port=443): Read timed out. (read timeout=3)
+2020-05-20 11:56:44.076 | DEBUG    | __main__:getProxy:50 - getProxy: 103.78.80.194:33442
+2020-05-20 11:56:44.097 | DEBUG    | __main__:getProxy:52 - getProxy: 436 proxies is unused.
+2020-05-20 11:56:44.108 | INFO     | __main__:getTaiexs:206 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-20 11:56:44.118 | WARNING  | __main__:getTaiexs:207 - getTaiexs: month 1 is downloading...

@@ -1,0 +1,484 @@
+2020-05-14 11:09:44.952 | INFO     | __main__:getProxies:74 - getProxies: proxies-2020051411.csv does not exist.
+2020-05-14 11:09:44.954 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-tw/
+2020-05-14 11:09:44.956 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:09:46.331 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:09:46.337 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:09:48.744 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:09:48.748 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 5 proxies is found.
+2020-05-14 11:09:49.749 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-jp/
+2020-05-14 11:09:49.760 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:09:50.963 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:09:50.994 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:09:51.330 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:09:51.332 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 22 proxies is found.
+2020-05-14 11:09:52.334 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-kr/
+2020-05-14 11:09:52.342 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:09:53.908 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:09:53.935 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:09:54.240 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:09:54.242 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 37 proxies is found.
+2020-05-14 11:09:55.245 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-id/
+2020-05-14 11:09:55.262 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:09:56.973 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:09:57.008 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:09:57.655 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:09:57.657 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 72 proxies is found.
+2020-05-14 11:09:58.660 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-my/
+2020-05-14 11:09:58.667 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:00.481 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:00.492 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:00.613 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:00.616 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 77 proxies is found.
+2020-05-14 11:10:01.618 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-th/
+2020-05-14 11:10:01.628 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:05.517 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:05.548 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:06.186 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:06.188 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 112 proxies is found.
+2020-05-14 11:10:07.190 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-vn/
+2020-05-14 11:10:07.200 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:09.963 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:09.989 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:10.411 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:10.414 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 135 proxies is found.
+2020-05-14 11:10:11.415 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-ph/
+2020-05-14 11:10:11.425 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:13.568 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:13.589 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:13.813 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:13.815 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 146 proxies is found.
+2020-05-14 11:10:14.817 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-hk/
+2020-05-14 11:10:14.828 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:16.935 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:16.952 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:17.610 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:17.613 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 181 proxies is found.
+2020-05-14 11:10:18.615 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-uk/
+2020-05-14 11:10:18.625 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:19.772 | DEBUG    | __main__:getProxiesFromProxyNova:109 - getProxiesFromProxyNova: status code is not 200
+2020-05-14 11:10:19.789 | DEBUG    | __main__:getProxiesFromProxyNova:105 - getProxiesFromProxyNova: https://www.proxynova.com/proxy-server-list/country-us/
+2020-05-14 11:10:19.801 | WARNING  | __main__:getProxiesFromProxyNova:106 - getProxiesFromProxyNova: downloading...
+2020-05-14 11:10:22.256 | SUCCESS  | __main__:getProxiesFromProxyNova:111 - getProxiesFromProxyNova: downloaded.
+2020-05-14 11:10:22.288 | WARNING  | __main__:getProxiesFromProxyNova:115 - getProxiesFromProxyNova: scanning...
+2020-05-14 11:10:22.945 | SUCCESS  | __main__:getProxiesFromProxyNova:126 - getProxiesFromProxyNova: scanned.
+2020-05-14 11:10:22.948 | DEBUG    | __main__:getProxiesFromProxyNova:127 - getProxiesFromProxyNova: 216 proxies is found.
+2020-05-14 11:10:23.954 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Taiwan
+2020-05-14 11:10:23.964 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:24.333 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:24.345 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Japan
+2020-05-14 11:10:24.356 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:24.700 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:24.718 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=United%20States
+2020-05-14 11:10:24.730 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:25.082 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:25.088 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Thailand
+2020-05-14 11:10:25.092 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:25.432 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:25.442 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Vietnam
+2020-05-14 11:10:25.452 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:25.809 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:25.820 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Indonesia
+2020-05-14 11:10:25.829 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:26.176 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:26.186 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Singapore
+2020-05-14 11:10:26.196 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:26.543 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:26.561 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Philippines
+2020-05-14 11:10:26.573 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:26.911 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:26.918 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Malaysia
+2020-05-14 11:10:26.925 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:27.264 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:27.274 | DEBUG    | __main__:getProxiesFromGatherProxy:147 - getProxiesFromGatherProxy: http://www.gatherproxy.com/proxylist/country/?c=Hong%20Kong
+2020-05-14 11:10:27.283 | WARNING  | __main__:getProxiesFromGatherProxy:148 - getProxiesFromGatherProxy: downloading...
+2020-05-14 11:10:27.629 | DEBUG    | __main__:getProxiesFromGatherProxy:151 - getProxiesFromGatherProxy: status code is not 200
+2020-05-14 11:10:27.648 | DEBUG    | __main__:getProxiesFromFreeProxyList:174 - getProxiesFromFreeProxyList: https://free-proxy-list.net/
+2020-05-14 11:10:27.660 | WARNING  | __main__:getProxiesFromFreeProxyList:175 - getProxiesFromFreeProxyList: downloading...
+2020-05-14 11:10:28.304 | SUCCESS  | __main__:getProxiesFromFreeProxyList:180 - getProxiesFromFreeProxyList: downloaded.
+2020-05-14 11:10:28.344 | WARNING  | __main__:getProxiesFromFreeProxyList:183 - getProxiesFromFreeProxyList: scanning...
+2020-05-14 11:10:28.438 | SUCCESS  | __main__:getProxiesFromFreeProxyList:190 - getProxiesFromFreeProxyList: scanned.
+2020-05-14 11:10:28.440 | DEBUG    | __main__:getProxiesFromFreeProxyList:191 - getProxiesFromFreeProxyList: 300 proxies is found.
+2020-05-14 11:10:28.443 | DEBUG    | __main__:reqProxies:57 - reqProxies: 503 proxies is found.
+2020-05-14 11:10:28.444 | WARNING  | __main__:getProxies:76 - getProxies: proxies-2020051411.csv is saving...
+2020-05-14 11:10:28.451 | SUCCESS  | __main__:getProxies:86 - getProxies: proxies-2020051411.csv is saved.
+2020-05-14 11:10:28.453 | DEBUG    | __main__:getProxy:46 - getProxy: 110.39.187.50:49850
+2020-05-14 11:10:28.454 | DEBUG    | __main__:getProxy:48 - getProxy: 502 proxies is unused.
+2020-05-14 11:10:28.458 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:28.459 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:31.468 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(110.39.187.50:49850) is not working (connection error).
+2020-05-14 11:10:31.479 | DEBUG    | __main__:getProxy:46 - getProxy: 110.137.148.115:8080
+2020-05-14 11:10:31.495 | DEBUG    | __main__:getProxy:48 - getProxy: 501 proxies is unused.
+2020-05-14 11:10:31.503 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:31.509 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:34.530 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(110.137.148.115:8080) is not working (connection error).
+2020-05-14 11:10:34.535 | DEBUG    | __main__:getProxy:46 - getProxy: 159.203.61.169:3128
+2020-05-14 11:10:34.539 | DEBUG    | __main__:getProxy:48 - getProxy: 500 proxies is unused.
+2020-05-14 11:10:34.544 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:34.548 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:35.169 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(159.203.61.169:3128) is not working (connection error).
+2020-05-14 11:10:35.174 | DEBUG    | __main__:getProxy:46 - getProxy: 103.127.189.13:808
+2020-05-14 11:10:35.178 | DEBUG    | __main__:getProxy:48 - getProxy: 499 proxies is unused.
+2020-05-14 11:10:35.183 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:35.187 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:36.507 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(103.127.189.13:808) is not working (connection error).
+2020-05-14 11:10:36.513 | DEBUG    | __main__:getProxy:46 - getProxy: 101.50.1.2:80
+2020-05-14 11:10:36.516 | DEBUG    | __main__:getProxy:48 - getProxy: 498 proxies is unused.
+2020-05-14 11:10:36.519 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:36.522 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:36.764 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(101.50.1.2:80) is not working (connection error).
+2020-05-14 11:10:36.770 | DEBUG    | __main__:getProxy:46 - getProxy: 118.69.50.154:443
+2020-05-14 11:10:36.776 | DEBUG    | __main__:getProxy:48 - getProxy: 497 proxies is unused.
+2020-05-14 11:10:36.782 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:36.792 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:38.842 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(118.69.50.154:443) is not working (connection error).
+2020-05-14 11:10:38.863 | DEBUG    | __main__:getProxy:46 - getProxy: 185.112.157.93:31282
+2020-05-14 11:10:38.874 | DEBUG    | __main__:getProxy:48 - getProxy: 496 proxies is unused.
+2020-05-14 11:10:38.884 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:38.888 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:40.263 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(185.112.157.93:31282) is not working (connection error).
+2020-05-14 11:10:40.275 | DEBUG    | __main__:getProxy:46 - getProxy: 177.185.158.15:8080
+2020-05-14 11:10:40.284 | DEBUG    | __main__:getProxy:48 - getProxy: 495 proxies is unused.
+2020-05-14 11:10:40.302 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:40.312 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:43.336 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(177.185.158.15:8080) is not working (connection error).
+2020-05-14 11:10:43.339 | DEBUG    | __main__:getProxy:46 - getProxy: 117.206.151.66:42353
+2020-05-14 11:10:43.341 | DEBUG    | __main__:getProxy:48 - getProxy: 494 proxies is unused.
+2020-05-14 11:10:43.342 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:43.344 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:45.145 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(117.206.151.66:42353) is not working (connection error).
+2020-05-14 11:10:45.156 | DEBUG    | __main__:getProxy:46 - getProxy: 167.71.249.181:8888
+2020-05-14 11:10:45.167 | DEBUG    | __main__:getProxy:48 - getProxy: 493 proxies is unused.
+2020-05-14 11:10:45.177 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:45.186 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:48.210 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(167.71.249.181:8888) is not working (connection error).
+2020-05-14 11:10:48.221 | DEBUG    | __main__:getProxy:46 - getProxy: 60.51.170.27:80
+2020-05-14 11:10:48.231 | DEBUG    | __main__:getProxy:48 - getProxy: 492 proxies is unused.
+2020-05-14 11:10:48.249 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:48.260 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:51.280 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(60.51.170.27:80) is not working (connection error).
+2020-05-14 11:10:51.283 | DEBUG    | __main__:getProxy:46 - getProxy: 181.101.168.104:7071
+2020-05-14 11:10:51.287 | DEBUG    | __main__:getProxy:48 - getProxy: 491 proxies is unused.
+2020-05-14 11:10:51.292 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:51.301 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:54.704 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(181.101.168.104:7071) is not working (connection error).
+2020-05-14 11:10:54.710 | DEBUG    | __main__:getProxy:46 - getProxy: 2.57.184.143:8118
+2020-05-14 11:10:54.715 | DEBUG    | __main__:getProxy:48 - getProxy: 490 proxies is unused.
+2020-05-14 11:10:54.719 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:54.724 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:55.407 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(2.57.184.143:8118) is not working (connection error).
+2020-05-14 11:10:55.418 | DEBUG    | __main__:getProxy:46 - getProxy: 113.252.95.19:80
+2020-05-14 11:10:55.435 | DEBUG    | __main__:getProxy:48 - getProxy: 489 proxies is unused.
+2020-05-14 11:10:55.440 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:55.446 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:55.566 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(113.252.95.19:80) is not working (connection error).
+2020-05-14 11:10:55.576 | DEBUG    | __main__:getProxy:46 - getProxy: 189.127.106.16:53897
+2020-05-14 11:10:55.595 | DEBUG    | __main__:getProxy:48 - getProxy: 488 proxies is unused.
+2020-05-14 11:10:55.607 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:55.617 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:10:58.634 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(189.127.106.16:53897) is not working (connection error).
+2020-05-14 11:10:58.640 | DEBUG    | __main__:getProxy:46 - getProxy: 183.89.37.6:8081
+2020-05-14 11:10:58.646 | DEBUG    | __main__:getProxy:48 - getProxy: 487 proxies is unused.
+2020-05-14 11:10:58.650 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:10:58.655 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:11:01.672 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(183.89.37.6:8081) is not working (connection error).
+2020-05-14 11:11:01.683 | DEBUG    | __main__:getProxy:46 - getProxy: 144.121.248.114:8080
+2020-05-14 11:11:01.693 | DEBUG    | __main__:getProxy:48 - getProxy: 486 proxies is unused.
+2020-05-14 11:11:01.702 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:11:01.709 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:11:04.635 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 1 is downloaded.
+2020-05-14 11:11:04.656 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 2 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190201
+2020-05-14 11:11:04.671 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 2 is downloading...
+2020-05-14 11:11:07.939 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(144.121.248.114:8080) is not working (connection error).
+2020-05-14 11:11:07.950 | DEBUG    | __main__:getProxy:46 - getProxy: 36.90.122.74:8181
+2020-05-14 11:11:07.960 | DEBUG    | __main__:getProxy:48 - getProxy: 485 proxies is unused.
+2020-05-14 11:11:07.980 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 2 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190201
+2020-05-14 11:11:07.995 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 2 is downloading...
+2020-05-14 11:11:12.680 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 2 is downloaded.
+2020-05-14 11:11:12.691 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 3 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190301
+2020-05-14 11:11:12.701 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 3 is downloading...
+2020-05-14 11:11:16.578 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 3 is downloaded.
+2020-05-14 11:11:16.598 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:16.609 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:19.897 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(36.90.122.74:8181) is not working (connection error).
+2020-05-14 11:11:19.900 | DEBUG    | __main__:getProxy:46 - getProxy: 212.129.58.186:5836
+2020-05-14 11:11:19.902 | DEBUG    | __main__:getProxy:48 - getProxy: 484 proxies is unused.
+2020-05-14 11:11:19.904 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:19.905 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:22.915 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(212.129.58.186:5836) is not working (connection error).
+2020-05-14 11:11:22.925 | DEBUG    | __main__:getProxy:46 - getProxy: 192.200.200.123:3128
+2020-05-14 11:11:22.935 | DEBUG    | __main__:getProxy:48 - getProxy: 483 proxies is unused.
+2020-05-14 11:11:22.956 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:22.971 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:24.511 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(192.200.200.123:3128) is not working (connection error).
+2020-05-14 11:11:24.519 | DEBUG    | __main__:getProxy:46 - getProxy: 181.101.163.107:7071
+2020-05-14 11:11:24.528 | DEBUG    | __main__:getProxy:48 - getProxy: 482 proxies is unused.
+2020-05-14 11:11:24.534 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:24.539 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:27.939 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(181.101.163.107:7071) is not working (connection error).
+2020-05-14 11:11:27.961 | DEBUG    | __main__:getProxy:46 - getProxy: 82.99.220.230:3128
+2020-05-14 11:11:27.977 | DEBUG    | __main__:getProxy:48 - getProxy: 481 proxies is unused.
+2020-05-14 11:11:27.987 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:28.006 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:31.703 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(82.99.220.230:3128) is not working (connection error).
+2020-05-14 11:11:31.714 | DEBUG    | __main__:getProxy:46 - getProxy: 36.66.218.121:35004
+2020-05-14 11:11:31.734 | DEBUG    | __main__:getProxy:48 - getProxy: 480 proxies is unused.
+2020-05-14 11:11:31.750 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:31.760 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:35.027 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(36.66.218.121:35004) is not working (connection error).
+2020-05-14 11:11:35.037 | DEBUG    | __main__:getProxy:46 - getProxy: 185.99.133.85:31282
+2020-05-14 11:11:35.047 | DEBUG    | __main__:getProxy:48 - getProxy: 479 proxies is unused.
+2020-05-14 11:11:35.064 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:35.071 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:36.092 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(185.99.133.85:31282) is not working (connection error).
+2020-05-14 11:11:36.103 | DEBUG    | __main__:getProxy:46 - getProxy: 77.94.137.243:3128
+2020-05-14 11:11:36.113 | DEBUG    | __main__:getProxy:48 - getProxy: 478 proxies is unused.
+2020-05-14 11:11:36.132 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:36.143 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:39.528 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(77.94.137.243:3128) is not working (connection error).
+2020-05-14 11:11:39.540 | DEBUG    | __main__:getProxy:46 - getProxy: 85.10.219.103:1080
+2020-05-14 11:11:39.552 | DEBUG    | __main__:getProxy:48 - getProxy: 477 proxies is unused.
+2020-05-14 11:11:39.564 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:39.583 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:43.106 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(85.10.219.103:1080) is not working (connection error).
+2020-05-14 11:11:43.121 | DEBUG    | __main__:getProxy:46 - getProxy: 200.52.141.162:53281
+2020-05-14 11:11:43.132 | DEBUG    | __main__:getProxy:48 - getProxy: 476 proxies is unused.
+2020-05-14 11:11:43.137 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:43.141 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:46.163 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(200.52.141.162:53281) is not working (connection error).
+2020-05-14 11:11:46.182 | DEBUG    | __main__:getProxy:46 - getProxy: 159.192.104.53:8080
+2020-05-14 11:11:46.194 | DEBUG    | __main__:getProxy:48 - getProxy: 475 proxies is unused.
+2020-05-14 11:11:46.213 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:46.224 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:49.258 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(159.192.104.53:8080) is not working (connection error).
+2020-05-14 11:11:49.280 | DEBUG    | __main__:getProxy:46 - getProxy: 168.131.152.107:3128
+2020-05-14 11:11:49.296 | DEBUG    | __main__:getProxy:48 - getProxy: 474 proxies is unused.
+2020-05-14 11:11:49.306 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:49.316 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:52.431 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(168.131.152.107:3128) is not working (connection error).
+2020-05-14 11:11:52.440 | DEBUG    | __main__:getProxy:46 - getProxy: 162.17.252.5:43764
+2020-05-14 11:11:52.448 | DEBUG    | __main__:getProxy:48 - getProxy: 473 proxies is unused.
+2020-05-14 11:11:52.454 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:52.458 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:55.727 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(162.17.252.5:43764) is not working (connection error).
+2020-05-14 11:11:55.738 | DEBUG    | __main__:getProxy:46 - getProxy: 168.138.42.43:3128
+2020-05-14 11:11:55.748 | DEBUG    | __main__:getProxy:48 - getProxy: 472 proxies is unused.
+2020-05-14 11:11:55.759 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:55.766 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:11:58.784 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(168.138.42.43:3128) is not working (connection error).
+2020-05-14 11:11:58.794 | DEBUG    | __main__:getProxy:46 - getProxy: 183.88.219.206:41564
+2020-05-14 11:11:58.803 | DEBUG    | __main__:getProxy:48 - getProxy: 471 proxies is unused.
+2020-05-14 11:11:58.812 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:11:58.830 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:12:01.858 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(183.88.219.206:41564) is not working (connection error).
+2020-05-14 11:12:01.869 | DEBUG    | __main__:getProxy:46 - getProxy: 5.141.244.97:61288
+2020-05-14 11:12:01.888 | DEBUG    | __main__:getProxy:48 - getProxy: 470 proxies is unused.
+2020-05-14 11:12:01.899 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:12:01.916 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:12:04.931 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(5.141.244.97:61288) is not working (connection error).
+2020-05-14 11:12:04.953 | DEBUG    | __main__:getProxy:46 - getProxy: 45.63.124.227:8080
+2020-05-14 11:12:04.969 | DEBUG    | __main__:getProxy:48 - getProxy: 469 proxies is unused.
+2020-05-14 11:12:04.977 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:12:04.982 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:12:05.750 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 4 is downloaded.
+2020-05-14 11:12:05.761 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 5 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190501
+2020-05-14 11:12:05.779 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 5 is downloading...
+2020-05-14 11:12:06.486 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 5 is downloaded.
+2020-05-14 11:12:06.497 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 6 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190601
+2020-05-14 11:12:06.505 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 6 is downloading...
+2020-05-14 11:12:07.199 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 6 is downloaded.
+2020-05-14 11:12:07.211 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 7 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190701
+2020-05-14 11:12:07.220 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 7 is downloading...
+2020-05-14 11:12:07.895 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 7 is downloaded.
+2020-05-14 11:12:07.908 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 8 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190801
+2020-05-14 11:12:07.917 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 8 is downloading...
+2020-05-14 11:12:08.615 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 8 is downloaded.
+2020-05-14 11:12:08.620 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 9 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190901
+2020-05-14 11:12:08.623 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 9 is downloading...
+2020-05-14 11:12:09.278 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 9 is downloaded.
+2020-05-14 11:12:09.289 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 10 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191001
+2020-05-14 11:12:09.299 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 10 is downloading...
+2020-05-14 11:12:09.967 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 10 is downloaded.
+2020-05-14 11:12:09.975 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 11 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191101
+2020-05-14 11:12:09.985 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 11 is downloading...
+2020-05-14 11:12:10.667 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 11 is downloaded.
+2020-05-14 11:12:10.679 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 12 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191201
+2020-05-14 11:12:10.688 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 12 is downloading...
+2020-05-14 11:12:11.383 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 12 is downloaded.
+2020-05-14 11:12:11.390 | INFO     | __main__:saveTaiexs:273 - saveTaiexs: 242 taiexs.
+2020-05-14 11:12:11.404 | WARNING  | __main__:saveTaiexs:274 - saveTaiexs: taiexs-2019.csv is saving...
+2020-05-14 11:12:11.419 | SUCCESS  | __main__:saveTaiexs:292 - main: taiexs-2019.csv is saved.
+2020-05-14 11:27:20.439 | SUCCESS  | __main__:main:99 - RESP: success
+2020-05-14 11:27:20.444 | ERROR    | __main__:main:106 - RESP: body.stat error is 很抱歉，沒有符合條件的資料!.
+2020-05-14 11:27:31.698 | SUCCESS  | __main__:main:99 - RESP: success
+2020-05-14 11:27:31.709 | ERROR    | __main__:main:106 - RESP: body.stat error is 很抱歉，沒有符合條件的資料!.
+2020-05-14 11:28:45.814 | SUCCESS  | __main__:main:66 - RESP: success
+2020-05-14 11:28:45.820 | INFO     | __main__:main:102 - [class AfterHoursDailyInfo { Code=1101, Date=2019-04-01, TotalShare=28261025, TotalTurnover=1171619600, OpenPrice=41.55, HighestPrice=41.80, LowestPrice=41.25, ClosePrice=41.35 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-02, TotalShare=23467533, TotalTurnover=974072590, OpenPrice=41.65, HighestPrice=41.70, LowestPrice=41.30, ClosePrice=41.40 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-03, TotalShare=19088018, TotalTurnover=794119481, OpenPrice=41.55, HighestPrice=41.75, LowestPrice=41.50, ClosePrice=41.70 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-08, TotalShare=28403967, TotalTurnover=1196467996, OpenPrice=41.95, HighestPrice=42.35, LowestPrice=41.95, ClosePrice=42.30 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-09, TotalShare=28568686, TotalTurnover=1204294549, OpenPrice=42.45, HighestPrice=42.55, LowestPrice=41.95, ClosePrice=42.15 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-10, TotalShare=22819386, TotalTurnover=957651363, OpenPrice=42.15, HighestPrice=42.20, LowestPrice=41.75, ClosePrice=42.00 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-11, TotalShare=20905034, TotalTurnover=880822798, OpenPrice=42.25, HighestPrice=42.40, LowestPrice=41.95, ClosePrice=42.05 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-12, TotalShare=19875284, TotalTurnover=836805178, OpenPrice=42.20, HighestPrice=42.30, LowestPrice=41.95, ClosePrice=42.00 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-15, TotalShare=18197589, TotalTurnover=769350147, OpenPrice=42.20, HighestPrice=42.50, LowestPrice=42.10, ClosePrice=42.50 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-16, TotalShare=16141073, TotalTurnover=682729997, OpenPrice=42.50, HighestPrice=42.55, LowestPrice=42.15, ClosePrice=42.30 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-17, TotalShare=24015044, TotalTurnover=1008739698, OpenPrice=42.40, HighestPrice=42.45, LowestPrice=41.90, ClosePrice=41.95 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-18, TotalShare=29541234, TotalTurnover=1229984949, OpenPrice=42.00, HighestPrice=42.10, LowestPrice=41.30, ClosePrice=41.60 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-19, TotalShare=18966042, TotalTurnover=788761662, OpenPrice=41.60, HighestPrice=41.80, LowestPrice=41.40, ClosePrice=41.70 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-22, TotalShare=30751985, TotalTurnover=1268438905, OpenPrice=41.60, HighestPrice=41.65, LowestPrice=41.00, ClosePrice=41.00 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-23, TotalShare=23165336, TotalTurnover=950545196, OpenPrice=40.85, HighestPrice=41.65, LowestPrice=40.55, ClosePrice=41.60 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-24, TotalShare=16390191, TotalTurnover=681247626, OpenPrice=41.75, HighestPrice=41.75, LowestPrice=41.35, ClosePrice=41.55 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-25, TotalShare=13459252, TotalTurnover=558331855, OpenPrice=41.50, HighestPrice=41.80, LowestPrice=41.30, ClosePrice=41.80 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-26, TotalShare=11300709, TotalTurnover=471505257, OpenPrice=41.85, HighestPrice=41.85, LowestPrice=41.55, ClosePrice=41.75 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-29, TotalShare=16073778, TotalTurnover=675143856, OpenPrice=41.90, HighestPrice=42.10, LowestPrice=41.80, ClosePrice=42.10 }, class AfterHoursDailyInfo { Code=1101, Date=2019-04-30, TotalShare=9767628, TotalTurnover=411098364, OpenPrice=42.10, HighestPrice=42.25, LowestPrice=41.95, ClosePrice=42.00 }]
+2020-05-14 11:28:45.828 | INFO     | __main__:main:109 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-01, TotalShare=28261025, TotalTurnover=1171619600, OpenPrice=41.55, HighestPrice=41.80, LowestPrice=41.25, ClosePrice=41.35 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-02, TotalShare=23467533, TotalTurnover=974072590, OpenPrice=41.65, HighestPrice=41.70, LowestPrice=41.30, ClosePrice=41.40 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-03, TotalShare=19088018, TotalTurnover=794119481, OpenPrice=41.55, HighestPrice=41.75, LowestPrice=41.50, ClosePrice=41.70 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-08, TotalShare=28403967, TotalTurnover=1196467996, OpenPrice=41.95, HighestPrice=42.35, LowestPrice=41.95, ClosePrice=42.30 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-09, TotalShare=28568686, TotalTurnover=1204294549, OpenPrice=42.45, HighestPrice=42.55, LowestPrice=41.95, ClosePrice=42.15 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-10, TotalShare=22819386, TotalTurnover=957651363, OpenPrice=42.15, HighestPrice=42.20, LowestPrice=41.75, ClosePrice=42.00 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-11, TotalShare=20905034, TotalTurnover=880822798, OpenPrice=42.25, HighestPrice=42.40, LowestPrice=41.95, ClosePrice=42.05 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-12, TotalShare=19875284, TotalTurnover=836805178, OpenPrice=42.20, HighestPrice=42.30, LowestPrice=41.95, ClosePrice=42.00 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-15, TotalShare=18197589, TotalTurnover=769350147, OpenPrice=42.20, HighestPrice=42.50, LowestPrice=42.10, ClosePrice=42.50 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-16, TotalShare=16141073, TotalTurnover=682729997, OpenPrice=42.50, HighestPrice=42.55, LowestPrice=42.15, ClosePrice=42.30 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-17, TotalShare=24015044, TotalTurnover=1008739698, OpenPrice=42.40, HighestPrice=42.45, LowestPrice=41.90, ClosePrice=41.95 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-18, TotalShare=29541234, TotalTurnover=1229984949, OpenPrice=42.00, HighestPrice=42.10, LowestPrice=41.30, ClosePrice=41.60 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-19, TotalShare=18966042, TotalTurnover=788761662, OpenPrice=41.60, HighestPrice=41.80, LowestPrice=41.40, ClosePrice=41.70 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-22, TotalShare=30751985, TotalTurnover=1268438905, OpenPrice=41.60, HighestPrice=41.65, LowestPrice=41.00, ClosePrice=41.00 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-23, TotalShare=23165336, TotalTurnover=950545196, OpenPrice=40.85, HighestPrice=41.65, LowestPrice=40.55, ClosePrice=41.60 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-24, TotalShare=16390191, TotalTurnover=681247626, OpenPrice=41.75, HighestPrice=41.75, LowestPrice=41.35, ClosePrice=41.55 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-25, TotalShare=13459252, TotalTurnover=558331855, OpenPrice=41.50, HighestPrice=41.80, LowestPrice=41.30, ClosePrice=41.80 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-26, TotalShare=11300709, TotalTurnover=471505257, OpenPrice=41.85, HighestPrice=41.85, LowestPrice=41.55, ClosePrice=41.75 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-29, TotalShare=16073778, TotalTurnover=675143856, OpenPrice=41.90, HighestPrice=42.10, LowestPrice=41.80, ClosePrice=42.10 }
+class AfterHoursDailyInfo { Code=1101, Date=2019-04-30, TotalShare=9767628, TotalTurnover=411098364, OpenPrice=42.10, HighestPrice=42.25, LowestPrice=41.95, ClosePrice=42.00 }
+2020-05-14 11:29:28.363 | SUCCESS  | __main__:main:66 - RESP: success
+2020-05-14 11:29:28.369 | INFO     | __main__:main:102 - [class AfterHoursDailyInfo { Code=1101, Date=2020-01-02, TotalShare=18470566, TotalTurnover=813465904, OpenPrice=43.80, HighestPrice=44.15, LowestPrice=43.80, ClosePrice=44.10 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-03, TotalShare=18387114, TotalTurnover=807459827, OpenPrice=44.15, HighestPrice=44.25, LowestPrice=43.45, ClosePrice=43.95 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-06, TotalShare=13867625, TotalTurnover=602752323, OpenPrice=43.50, HighestPrice=43.70, LowestPrice=43.30, ClosePrice=43.45 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-07, TotalShare=14185347, TotalTurnover=616059913, OpenPrice=43.45, HighestPrice=43.60, LowestPrice=43.20, ClosePrice=43.60 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-08, TotalShare=13465670, TotalTurnover=583893343, OpenPrice=43.15, HighestPrice=43.55, LowestPrice=43.15, ClosePrice=43.40 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-09, TotalShare=17899047, TotalTurnover=777095165, OpenPrice=43.40, HighestPrice=43.60, LowestPrice=43.30, ClosePrice=43.45 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-10, TotalShare=12755874, TotalTurnover=554204406, OpenPrice=43.45, HighestPrice=43.50, LowestPrice=43.35, ClosePrice=43.50 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-13, TotalShare=23870603, TotalTurnover=1051194288, OpenPrice=43.75, HighestPrice=44.25, LowestPrice=43.65, ClosePrice=44.25 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-14, TotalShare=20357664, TotalTurnover=904504264, OpenPrice=44.25, HighestPrice=44.55, LowestPrice=44.25, ClosePrice=44.55 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-15, TotalShare=23662867, TotalTurnover=1053815288, OpenPrice=44.55, HighestPrice=44.70, LowestPrice=44.30, ClosePrice=44.55 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-16, TotalShare=14814952, TotalTurnover=662036531, OpenPrice=44.50, HighestPrice=44.95, LowestPrice=44.45, ClosePrice=44.75 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-17, TotalShare=9522761, TotalTurnover=426564174, OpenPrice=44.90, HighestPrice=44.90, LowestPrice=44.65, ClosePrice=44.90 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-20, TotalShare=8870270, TotalTurnover=398481034, OpenPrice=44.95, HighestPrice=45.00, LowestPrice=44.85, ClosePrice=44.95 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-30, TotalShare=64150715, TotalTurnover=2725362280, OpenPrice=42.70, HighestPrice=43.05, LowestPrice=41.60, ClosePrice=41.85 }, class AfterHoursDailyInfo { Code=1101, Date=2020-01-31, TotalShare=26430159, TotalTurnover=1116222284, OpenPrice=41.75, HighestPrice=42.50, LowestPrice=41.75, ClosePrice=42.05 }]
+2020-05-14 11:29:28.375 | INFO     | __main__:main:109 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-02, TotalShare=18470566, TotalTurnover=813465904, OpenPrice=43.80, HighestPrice=44.15, LowestPrice=43.80, ClosePrice=44.10 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-03, TotalShare=18387114, TotalTurnover=807459827, OpenPrice=44.15, HighestPrice=44.25, LowestPrice=43.45, ClosePrice=43.95 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-06, TotalShare=13867625, TotalTurnover=602752323, OpenPrice=43.50, HighestPrice=43.70, LowestPrice=43.30, ClosePrice=43.45 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-07, TotalShare=14185347, TotalTurnover=616059913, OpenPrice=43.45, HighestPrice=43.60, LowestPrice=43.20, ClosePrice=43.60 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-08, TotalShare=13465670, TotalTurnover=583893343, OpenPrice=43.15, HighestPrice=43.55, LowestPrice=43.15, ClosePrice=43.40 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-09, TotalShare=17899047, TotalTurnover=777095165, OpenPrice=43.40, HighestPrice=43.60, LowestPrice=43.30, ClosePrice=43.45 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-10, TotalShare=12755874, TotalTurnover=554204406, OpenPrice=43.45, HighestPrice=43.50, LowestPrice=43.35, ClosePrice=43.50 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-13, TotalShare=23870603, TotalTurnover=1051194288, OpenPrice=43.75, HighestPrice=44.25, LowestPrice=43.65, ClosePrice=44.25 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-14, TotalShare=20357664, TotalTurnover=904504264, OpenPrice=44.25, HighestPrice=44.55, LowestPrice=44.25, ClosePrice=44.55 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-15, TotalShare=23662867, TotalTurnover=1053815288, OpenPrice=44.55, HighestPrice=44.70, LowestPrice=44.30, ClosePrice=44.55 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-16, TotalShare=14814952, TotalTurnover=662036531, OpenPrice=44.50, HighestPrice=44.95, LowestPrice=44.45, ClosePrice=44.75 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-17, TotalShare=9522761, TotalTurnover=426564174, OpenPrice=44.90, HighestPrice=44.90, LowestPrice=44.65, ClosePrice=44.90 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-20, TotalShare=8870270, TotalTurnover=398481034, OpenPrice=44.95, HighestPrice=45.00, LowestPrice=44.85, ClosePrice=44.95 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-30, TotalShare=64150715, TotalTurnover=2725362280, OpenPrice=42.70, HighestPrice=43.05, LowestPrice=41.60, ClosePrice=41.85 }
+class AfterHoursDailyInfo { Code=1101, Date=2020-01-31, TotalShare=26430159, TotalTurnover=1116222284, OpenPrice=41.75, HighestPrice=42.50, LowestPrice=41.75, ClosePrice=42.05 }
+2020-05-14 11:30:07.187 | SUCCESS  | __main__:main:66 - RESP: success
+2020-05-14 11:30:07.191 | INFO     | __main__:main:102 - []
+2020-05-14 11:30:07.192 | INFO     | __main__:main:109 - AFTERHOURSDAILYINFOS
+
+2020-05-14 11:30:40.915 | SUCCESS  | __main__:main:66 - RESP: success
+2020-05-14 11:30:40.921 | INFO     | __main__:main:102 - [class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }]
+2020-05-14 11:30:40.928 | INFO     | __main__:main:109 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }
+2020-05-14 11:34:37.085 | SUCCESS  | __main__:main:67 - RESP: success
+2020-05-14 11:34:37.097 | INFO     | __main__:main:103 - [class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }]
+2020-05-14 11:34:37.108 | INFO     | __main__:main:110 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }
+2020-05-14 11:34:57.499 | SUCCESS  | __main__:main:67 - RESP: success
+2020-05-14 11:34:57.522 | INFO     | __main__:main:103 - [class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }]
+2020-05-14 11:34:57.535 | INFO     | __main__:main:110 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }
+2020-05-14 11:38:15.667 | SUCCESS  | __main__:main:67 - RESP: success
+2020-05-14 11:38:15.673 | INFO     | __main__:main:103 - [class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }, class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }]
+2020-05-14 11:38:15.681 | INFO     | __main__:main:110 - AFTERHOURSDAILYINFOS
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-02, TotalShare=23429019, TotalTurnover=228872672, OpenPrice=9.80, HighestPrice=9.80, LowestPrice=9.74, ClosePrice=9.74 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-03, TotalShare=30393706, TotalTurnover=295508424, OpenPrice=9.72, HighestPrice=9.80, LowestPrice=9.67, ClosePrice=9.70 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-06, TotalShare=54591036, TotalTurnover=521343622, OpenPrice=9.64, HighestPrice=9.72, LowestPrice=9.36, ClosePrice=9.36 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-07, TotalShare=49007483, TotalTurnover=452839244, OpenPrice=9.20, HighestPrice=9.34, LowestPrice=9.16, ClosePrice=9.24 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-08, TotalShare=24469265, TotalTurnover=224776542, OpenPrice=9.18, HighestPrice=9.23, LowestPrice=9.13, ClosePrice=9.17 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-09, TotalShare=20745405, TotalTurnover=190963804, OpenPrice=9.18, HighestPrice=9.27, LowestPrice=9.17, ClosePrice=9.19 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-10, TotalShare=24399551, TotalTurnover=222868317, OpenPrice=9.17, HighestPrice=9.21, LowestPrice=9.11, ClosePrice=9.20 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-13, TotalShare=30399829, TotalTurnover=278820493, OpenPrice=9.17, HighestPrice=9.18, LowestPrice=9.11, ClosePrice=9.11 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-14, TotalShare=29224972, TotalTurnover=265821026, OpenPrice=9.12, HighestPrice=9.18, LowestPrice=9.09, ClosePrice=9.15 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-15, TotalShare=22244776, TotalTurnover=198474473, OpenPrice=9.15, HighestPrice=9.15, LowestPrice=9.10, ClosePrice=9.10 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-16, TotalShare=58438440, TotalTurnover=529821778, OpenPrice=9.08, HighestPrice=9.10, LowestPrice=8.99, ClosePrice=9.01 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-17, TotalShare=96723718, TotalTurnover=863111800, OpenPrice=9.01, HighestPrice=9.01, LowestPrice=8.88, ClosePrice=8.88 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-20, TotalShare=86971070, TotalTurnover=777549407, OpenPrice=8.83, HighestPrice=9.05, LowestPrice=8.83, ClosePrice=8.92 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-30, TotalShare=88693115, TotalTurnover=736501058, OpenPrice=8.70, HighestPrice=8.71, LowestPrice=8.03, ClosePrice=8.06 }
+class AfterHoursDailyInfo { Code=1314, Date=2020-01-31, TotalShare=37665859, TotalTurnover=306510831, OpenPrice=8.10, HighestPrice=8.26, LowestPrice=8.06, ClosePrice=8.10 }
+2020-05-14 11:50:37.182 | INFO     | __main__:getProxies:65 - getProxies: proxies-2020051411.csv exists.
+2020-05-14 11:50:37.185 | WARNING  | __main__:getProxies:66 - getProxies: proxies-2020051411.csv is loading...
+2020-05-14 11:50:37.201 | SUCCESS  | __main__:getProxies:72 - getProxies: proxies-2020051411.csv is loaded.
+2020-05-14 11:50:37.203 | DEBUG    | __main__:getProxy:46 - getProxy: 47.90.54.45:8080
+2020-05-14 11:50:37.204 | DEBUG    | __main__:getProxy:48 - getProxy: 502 proxies is unused.
+2020-05-14 11:50:37.207 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:50:37.209 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:50:37.311 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(47.90.54.45:8080) is not working (connection error).
+2020-05-14 11:50:37.319 | DEBUG    | __main__:getProxy:46 - getProxy: 1.20.156.230:80
+2020-05-14 11:50:37.351 | DEBUG    | __main__:getProxy:48 - getProxy: 501 proxies is unused.
+2020-05-14 11:50:37.357 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:50:37.361 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:50:40.379 | ERROR    | __main__:getTaiexs:246 - getTaiexs: proxy(1.20.156.230:80) is not working (connection error).
+2020-05-14 11:50:40.382 | DEBUG    | __main__:getProxy:46 - getProxy: 45.77.144.14:8080
+2020-05-14 11:50:40.384 | DEBUG    | __main__:getProxy:48 - getProxy: 500 proxies is unused.
+2020-05-14 11:50:40.385 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 1 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190101
+2020-05-14 11:50:40.387 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 1 is downloading...
+2020-05-14 11:50:43.988 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 1 is downloaded.
+2020-05-14 11:50:44.012 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 2 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190201
+2020-05-14 11:50:44.024 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 2 is downloading...
+2020-05-14 11:50:46.357 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 2 is downloaded.
+2020-05-14 11:50:46.362 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 3 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190301
+2020-05-14 11:50:46.366 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 3 is downloading...
+2020-05-14 11:50:48.790 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 3 is downloaded.
+2020-05-14 11:50:48.802 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 4 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190401
+2020-05-14 11:50:48.824 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 4 is downloading...
+2020-05-14 11:50:51.296 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 4 is downloaded.
+2020-05-14 11:50:51.307 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 5 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190501
+2020-05-14 11:50:51.332 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 5 is downloading...
+2020-05-14 11:50:53.812 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 5 is downloaded.
+2020-05-14 11:50:53.823 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 6 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190601
+2020-05-14 11:50:53.834 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 6 is downloading...
+2020-05-14 11:50:56.201 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 6 is downloaded.
+2020-05-14 11:50:56.213 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 7 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190701
+2020-05-14 11:50:56.222 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 7 is downloading...
+2020-05-14 11:50:58.657 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 7 is downloaded.
+2020-05-14 11:50:58.683 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 8 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190801
+2020-05-14 11:50:58.703 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 8 is downloading...
+2020-05-14 11:51:01.246 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 8 is downloaded.
+2020-05-14 11:51:01.258 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 9 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20190901
+2020-05-14 11:51:01.265 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 9 is downloading...
+2020-05-14 11:51:03.684 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 9 is downloaded.
+2020-05-14 11:51:03.695 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 10 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191001
+2020-05-14 11:51:03.705 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 10 is downloading...
+2020-05-14 11:51:06.113 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 10 is downloaded.
+2020-05-14 11:51:06.125 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 11 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191101
+2020-05-14 11:51:06.148 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 11 is downloading...
+2020-05-14 11:51:08.593 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 11 is downloaded.
+2020-05-14 11:51:08.600 | INFO     | __main__:getTaiexs:202 - getTaiexs: month 12 url is https://www.twse.com.tw/indicesReport/MI_5MINS_HIST?response=json&date=20191201
+2020-05-14 11:51:08.615 | WARNING  | __main__:getTaiexs:203 - getTaiexs: month 12 is downloading...
+2020-05-14 11:51:11.033 | SUCCESS  | __main__:getTaiexs:216 - getTaiexs: month 12 is downloaded.
+2020-05-14 11:51:11.058 | INFO     | __main__:saveTaiexs:273 - saveTaiexs: 242 taiexs.
+2020-05-14 11:51:11.069 | WARNING  | __main__:saveTaiexs:274 - saveTaiexs: taiexs-2019.csv is saving...
+2020-05-14 11:51:11.085 | SUCCESS  | __main__:saveTaiexs:292 - main: taiexs-2019.csv is saved.
